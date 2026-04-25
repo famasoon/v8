@@ -4,6 +4,10 @@ This directory contains deep-dive documentation into V8 internals, generated fro
 
 ## Table of Contents
 
+### Japanese Notes
+*   [V8 実装解説（日本語）](ja/README.md): BigInt / Maglev を中心とした実装寄りガイド。
+
+
 ### General
 *   [High-Level Overview](overview.md): High-level overview of V8's architecture and execution pipeline.
 *   [JavaScript Overview](javascript-overview.md): High-level overview of JavaScript concepts for V8 developers.
